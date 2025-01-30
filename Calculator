@@ -6,3 +6,9 @@ int a= 7;
 int b = 9;
 int sum = a+b;
 Console.WriteLine("Sum of the numbers is: " + sum);
+
+int a= 7;
+int b = 9;
+int Substract = a-b;
+Console.WriteLine("Substraction of the numbers is: " + Substract);
+
