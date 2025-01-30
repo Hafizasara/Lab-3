@@ -17,3 +17,8 @@ int b = 9;
 int Multiply = a*b;
 Console.WriteLine("Multiplication of the numbers is: " + Multiply);
 
+int a= 7;
+int b = 9;
+int division = a*b;
+Console.WriteLine("Division of the numbers is: " + division);
+
