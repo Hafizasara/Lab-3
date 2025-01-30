@@ -12,3 +12,8 @@ int b = 9;
 int Substract = a-b;
 Console.WriteLine("Substraction of the numbers is: " + Substract);
 
+int a= 7;
+int b = 9;
+int Multiply = a*b;
+Console.WriteLine("Multiplication of the numbers is: " + Multiply);
+
